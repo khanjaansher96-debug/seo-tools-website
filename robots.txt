@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://khanjaansher96-debug.github.io/seo-tools-website/sitemap.xml
